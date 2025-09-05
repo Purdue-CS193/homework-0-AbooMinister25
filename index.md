@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+# Rayyan's First CS 193 Homework
+
+Some of my favorite things about CS 193 include:
+- The lack of exams.
+- How helpful the TAs are.
+- Learning tools that'll help me in the future.
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
